@@ -2,7 +2,7 @@
 - An implemention of longJohn pathfinding algorithm in JavaScript
 ### usage:
 ```javascript
-import longJohn from "@swashvirus/longJohn"
+import longJohn from "@swashvirus/longjohn"
 
 const map = [[...]] // multidimensional array
 const start = [..., ...]

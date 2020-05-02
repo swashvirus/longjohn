@@ -1,5 +1,5 @@
 {
-  "name": "@swashvirus/longJohn",
+  "name": "@swashvirus/longjohn",
   "version": "1.0.0",
   "description": "- An implemention of longJohn pathfinding algorithm in JavaScript ### usage: ```javascript import longJohn from \"@swashvirus/longJohn\"",
   "main": "main.js",

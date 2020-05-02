@@ -1,0 +1,20 @@
+{
+  "name": "@swashvirus/longJohn",
+  "version": "1.0.0",
+  "description": "- An implemention of longJohn pathfinding algorithm in JavaScript ### usage: ```javascript import longJohn from \"@swashvirus/longJohn\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swashvirus/longJohn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swashvirus/longJohn/issues"
+  },
+  "homepage": "https://github.com/swashvirus/longJohn#readme"
+}
